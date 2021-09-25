@@ -7,3 +7,6 @@ COMB(cdEnt,      KC_ENT,          KC_C, KC_D)
 COMB(luEsc,      KC_ESC,          KC_L, KC_U)
 COMB(neCol,      KC_COLN,         KC_N, KC_E)
 COMB(mkEnt,      KC_ENT,          KC_M, KC_K)
+
+COMB(qwGrv,      KC_GRV,          KC_Q, KC_W)
+
